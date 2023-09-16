@@ -5,7 +5,7 @@
 
 <a href="https://www.packtpub.com/product/android-programming-for-beginners-third-edition/9781800563438?utm_source=github&utm_medium=repository&utm_campaign=9781800563438"><img src="https://static.packt-cdn.com/products/9781800563438/cover/smaller" alt="Android Programming for Beginners - Third Edition" height="256px" align="right"></a>
 
-This is the code repository for [Android Programming for Beginners - Third Edition](https://www.packtpub.com/product/android-programming-for-beginners-third-edition/9781800563438?utm_source=github&utm_medium=repository&utm_campaign=9781800563438), published by Packt.
+This is the code repository for [Android Programming for Beginners - Third Edition](https://shorturl.at/tJM67), published by Packt.
 
 **Build in-depth, full-featured Android apps starting from zero programming experience**
 
