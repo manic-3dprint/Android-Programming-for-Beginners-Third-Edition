@@ -5,7 +5,7 @@
 
 <a href="https://www.packtpub.com/product/android-programming-for-beginners-third-edition/9781800563438?utm_source=github&utm_medium=repository&utm_campaign=9781800563438"><img src="https://static.packt-cdn.com/products/9781800563438/cover/smaller" alt="Android Programming for Beginners - Third Edition" height="256px" align="right"></a>
 
-This is the code repository for [Android Programming for Beginners - Third Edition](https://shorturl.at/tJM67), published by Packt.
+This is the code repository for [Android Programming for Beginners - Third Edition](https://drive.google.com/file/d/1_1wR7qgTO6LSuw06myWxTh8v6NVKcRid/view?usp=drive_link), published by Packt.
 
 **Build in-depth, full-featured Android apps starting from zero programming experience**
 
@@ -20,11 +20,6 @@ This book covers the following exciting features:
 * Manage your apps' data using the built-in Android SQLite database
 * Explore the design patterns used by professionals to build top-grade applications
 * Build real Android applications that you can deploy to the Google Play marketplace
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800563434) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
@@ -82,28 +77,6 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800563438_ColorImages.pdf).
 
 
-### Related products <Other books you may enjoy>
-* Android Programming with Kotlin for Beginners [[Packt]](https://www.packtpub.com/product/android-programming-with-kotlin-for-beginners/9781789615401?utm_source=github&utm_medium=repository&utm_campaign=9781789615401) [[Amazon]](https://www.amazon.com/dp/1789615402)
 
-* Flutter Projects [[Packt]](https://www.packtpub.com/product/flutter-projects/9781838647773?utm_source=github&utm_medium=repository&utm_campaign=9781838647773) [[Amazon]](https://www.amazon.com/dp/1838647775)
-
-## Get to Know the Author
-**John Horton**
-is a programming and gaming enthusiast based in the UK. He has a passion for writing apps, games, books, and blog articles. He is the founder of Game Code School
-
-
-## Other books by the authors
-* [Learning Java by Building Android Games - Third Edition](https://www.packtpub.com/product/learning-java-by-building-android-games-third-edition/9781800565869)
-* [Learning Java by Building Android Games](https://www.packtpub.com/product/learning-java-by-building-android-games/9781784398859)
-* [Learning Java by Building Android Games - Second Edition](https://www.packtpub.com/product/learning-java-by-building-android-games-second-edition/9781788839150)
-* [Android Programming with Kotlin for Beginners](https://www.packtpub.com/product/android-programming-with-kotlin-for-beginners/9781789615401)
-* [Beginning C++ Game Programming - Second Edition](https://www.packtpub.com/product/beginning-c-game-programming-second-edition/9781838648572)
-* [Beginning C++ Game Programming](https://www.packtpub.com/product/beginning-c-game-programming/9781786466198)
-
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781800563438">https://packt.link/free-ebook/9781800563438 </a> </p>
